@@ -94,7 +94,7 @@
 <a name="item1"></a>
 ### AppLayout
  
-AppLayout es un componente padre de enrutamiento entre los hijos NavBar, NavInfo y Footer. Este contiene una variable que permite agregar el contenido correspondiente a cada página de la aplicación. 
+Es el componente padre de enrutamiento entre los hijos NavBar, NavInfo y Footer. Este recibe por parametro {children} que permite agregar el contenido o cuerpo  correspondiente a cada página de la aplicación con la estructura ya definida de sus componentes hijos. 
 
 
 <a name="item2"></a>
